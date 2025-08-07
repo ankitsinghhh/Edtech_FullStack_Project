@@ -23,7 +23,7 @@ app.use(cookieParser())
 
 
 app.use(cors({
-     origin:"https://edtech-fullstack-project-backend.onrender.com",
+     origin:"https://edtech-fullstack-project-frontend.vercel.app",
      credentials:true,
 }))
 
