@@ -1,6 +1,4 @@
 
----
-
 
 # EdTech Full‑Stack Platform
 
