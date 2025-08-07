@@ -21,7 +21,7 @@ app.use(cookieParser())
 
 
 
-https://edtech-full-stack-project.vercel.app/
+// https://edtech-full-stack-project.vercel.app/
 app.use(cors({
     origin: ["http://localhost:3000", "https://edtech-full-stack-project.vercel.app"],
     credentials: true,
